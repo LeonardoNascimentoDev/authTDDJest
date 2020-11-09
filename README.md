@@ -1,14 +1,10 @@
-# Calculadora
+# Projeto de exemplos de testes com JEST
 
-Projeto simples de uma calculadora, com sistema de logs no backend.
+Projeto simples de teste, utilizando diversas libs de teste do JEST.
 
 ### 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
  - Node.js
- - React
-
-### 🎨 Frontend
-Para ver informações sobre o frontend ver README da pasta 📁web
 
 ### 🚧 Backend
-Para ver a documentação e outras informações sobre o backend ver README da pasta 📁server
+Esse projeto só utilizada a parte de backend, são testes com JEST voltado apenas ao backend.
