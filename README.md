@@ -7,4 +7,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  - Node.js
 
 ### 🚧 Backend
-Esse projeto utilizada apenas parte de backend.
+O projeto utilizada apenas parte de backend.
