@@ -9,18 +9,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ### 🚧 Backend
 O projeto utilizada apenas parte de backend.
 
-
 #### Instações da lib </br>
 yarn add -D jest
 
 #### Configurando o JEST</br>
 yarn jest init
 
-## Comando para testar os arquivos de teste </br>
+###### Comando para testar os arquivos de teste </br>
 npx jest
 
-## Ouvindo testes com watch </br>
+#### Ouvindo testes com watch </br>
 npx jest --watchAll
 
-## Configuração do ENV </br>
+#### Configuração do ENV </br>
 npm install -g win-node-env
