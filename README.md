@@ -13,7 +13,7 @@ O projeto utilizada apenas parte de backend.
 #### Instações da lib </br>
 yarn add -D jest
 
-## Configurando o JEST</br>
+#### Configurando o JEST</br>
 yarn jest init
 
 ## Comando para testar os arquivos de teste </br>
