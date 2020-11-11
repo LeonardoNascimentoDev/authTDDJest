@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O projeto utilizada apenas parte de backend.
 
 
-## Instações da lib </br>
+#### Instações da lib </br>
 yarn add -D jest
 
 ## Configurando o JEST</br>
