@@ -15,7 +15,7 @@ O projeto utilizada apenas parte de backend.
 yarn add -D jest
 
 #### Configurando o JEST </br>
-yarn jest init
+yarn jest --init
 
 #### Comando para testar os arquivos de teste </br>
 npx jest
